@@ -21,6 +21,7 @@ namespace EmpMgmtApp
                 Console.WriteLine("4. View All Employees");
                 Console.WriteLine("5. Exit");
                 Console.Write("Select an option: ");
+                Console.WriteLine("DemoGithub");
 
                 string choice = Console.ReadLine();
                 switch (choice)
