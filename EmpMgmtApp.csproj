@@ -82,6 +82,7 @@
     <None Include="EmpMgmt.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="FileName.cs" />
+    <Compile Include="FileName01.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Program_ADO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
